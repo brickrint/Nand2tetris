@@ -1,2 +1,2 @@
 # Nand2tetris
-从0开始完成一个cpu+编译器+操作系统
+Coursera course: https://www.youtube.com/watch?v=Q3jDqSNpPDI&list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1
